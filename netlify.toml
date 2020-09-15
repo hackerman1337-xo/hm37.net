@@ -4,5 +4,5 @@
 
 [build.environment]
   HUGO_VERSION = "0.74.3"
-  HUGO_THEME = "repo"
-  HUGO_BASEURL = "https://cupper-hugo-theme.netlify.com/"
+  HUGO_THEME = "cupper-hugo-theme"
+  HUGO_BASEURL = "https://hm37-net.netlify.com/"
