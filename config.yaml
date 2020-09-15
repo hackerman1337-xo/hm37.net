@@ -1,0 +1,77 @@
+baseURL: https://hm37.net
+languageCode: en-us
+defaultContentLanguage: en
+title: Tom's Thoughts
+theme: cupper-hugo-theme
+googleAnalytics: UA-123456789-1
+disqusShortname: neontom
+enableGitInfo: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  posts: /:slug/
+
+imaging:
+  quality: 99
+
+params:
+  description: Thoughts, stories, and technical articles.
+  homeMetaContent: Tom's Thoughts. Another weblog for your reading pleasure.
+  footer: Made with [Hugo](https://gohugo.io/).
+  dateFormat: 2006 Jan 02
+  codePenUser: neontom
+  katex: true
+  darkThemeAsDefault: false
+  hideHeaderLinks: false
+  search: true
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Blog
+      url: /posts/
+      weight: 2
+    - name: Tags
+      url: /tags/
+      weight: 3
+    - name: About
+      url: /about/
+      weight: 4
+    - name: RSS
+      url: /index.xml
+      weight: 5
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
