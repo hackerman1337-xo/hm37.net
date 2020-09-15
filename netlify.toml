@@ -5,4 +5,4 @@
 [build.environment]
   HUGO_VERSION = "0.74.3"
   HUGO_THEME = "cupper-hugo-theme"
-  HUGO_BASEURL = "https://hm37.net/"
+  HUGO_BASEURL = "https://hm37.net"

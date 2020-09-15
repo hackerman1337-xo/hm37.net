@@ -1,7 +1,7 @@
 baseURL: https://hm37.net
 languageCode: en-us
 defaultContentLanguage: en
-title: Tom's Thoughts
+title: hm37
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
 disqusShortname: neontom
@@ -19,7 +19,7 @@ imaging:
 params:
   description: Thoughts, stories, and technical articles.
   homeMetaContent: Tom's Thoughts. Another weblog for your reading pleasure.
-  footer: Made with [Hugo](https://gohugo.io/).
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   dateFormat: 2006 Jan 02
   codePenUser: neontom
   katex: true
@@ -32,7 +32,7 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
+    - name: Posts
       url: /posts/
       weight: 2
     - name: Tags
