@@ -11,7 +11,7 @@ Conversely, I had a lot of fun playing the Black Ops alpha. Multiple game modes,
 
 I also played some of 2018's *Marvel's Spider-Man* this weekend, and I'm now around 30% done with the main story. I just had a run-in with Shocker, listened to load's of J Jonah Jameson's lies and conspiracies about Spider-Man, and saved MJ from the Demons in the Museum. I'm interested to see where the story goes next!
 
-{{< video src="shocker.webm" controls="no" >}}
+{{< video src="shocker.webm" muted="true" autoplay="true" loop="true" controls="no" >}}
 
 > Spider-Man vs Shocker
 
@@ -25,7 +25,7 @@ There are plenty of puzzle mechanics to explore: hexahedrons (cubes) for depress
 
 There are hidden objectives alongside the "main" objectives: hidden stars on each level to collect to enable access to extra puzzle chambers. Overall, this game is a lot of fun, and it's currently on Xbox Game Pass. Check it out if you need something new to play!
 
-{{< video src="talos.webm" controls="no" >}}
+{{< video src="talos.webm" controls="no" muted="true" autoplay="true" loop="true" >}}
 
 > Philosophical puzzle-solving
 
