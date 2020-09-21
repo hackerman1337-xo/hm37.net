@@ -2,7 +2,7 @@ baseURL: https://hm37.net
 languageCode: en-us
 defaultContentLanguage: en
 title: hm37
-theme: cupper-hugo-theme
+theme: ["hugo-video", "cupper-hugo-theme"]
 googleAnalytics: UA-36664418-3
 disqusShortname: neontom
 enableGitInfo: true
