@@ -11,7 +11,9 @@ Conversely, I had a lot of fun playing the Black Ops alpha. Multiple game modes,
 
 I also played some of 2018's *Marvel's Spider-Man* this weekend, and I'm now around 30% done with the main story. I just had a run-in with Shocker, listened to load's of J Jonah Jameson's lies and conspiracies about Spider-Man, and saved MJ from the Demons in the Museum. I'm interested to see where the story goes next!
 
-![Spider-Man vs Shocker](shocker.webm)
+{{< video src="shocker.webm" controls="no" >}}
+
+> Spider-Man vs Shocker
 
 ## The Talos Principle
 
@@ -23,7 +25,9 @@ There are plenty of puzzle mechanics to explore: hexahedrons (cubes) for depress
 
 There are hidden objectives alongside the "main" objectives: hidden stars on each level to collect to enable access to extra puzzle chambers. Overall, this game is a lot of fun, and it's currently on Xbox Game Pass. Check it out if you need something new to play!
 
-![Philosophical puzzle-solving](talos.webm)
+{{< video src="talos.webm" controls="no" >}}
+
+> Philosophical puzzle-solving
 
 ## Resident Evil 7: Biohazard
 
@@ -45,7 +49,7 @@ What is *your* favorite 3D Mario game? Mine is probably 3D Worlds or Odyssey. Le
 
 ### ROGUE LIKE. DUNGEON CRAWLER. HACK AND SLASH.
 
-~[Zagreus has quick wit in Supergiant's latest rogue-like](hades.jpg)
+![Zagreus has quick wit in Supergiant's latest rogue-like](hades.jpg)
 
 Supergiant Games (*Bastion*, *Transistor*, *Pyre*) brings a fantastic new entry to the Switch (it's also been on PC for a few months in Early Access). Rogue-likes are maybe my favorite genre of game (closely tied with Metroidvanias), and Hades is easily one of my favorite titles to date. It's a game set in Hades (clever, huh?) based around Greek mythology. The object of the game is to escape the underworld and make it to Olympus, but that's quite a Herculean task.
 
