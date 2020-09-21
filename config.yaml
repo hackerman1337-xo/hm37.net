@@ -11,7 +11,8 @@ taxonomies:
   tag: tags
 
 permalinks:
-  posts: /:slug/
+  posts: /post/:slug/
+  playing: /playing/:filename
 
 imaging:
   quality: 99
