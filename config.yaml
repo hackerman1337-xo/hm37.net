@@ -4,7 +4,7 @@ defaultContentLanguage: en
 title: hm37
 theme: ["hugo-video", "cupper-hugo-theme"]
 googleAnalytics: UA-36664418-3
-disqusShortname: neontom
+disqusShortname: hm37
 enableGitInfo: true
 
 taxonomies:
