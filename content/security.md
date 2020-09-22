@@ -17,14 +17,6 @@ Here is a public key block with my signing key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User-ID:	Tom Anderson <me@neontom.com>
-Comment: Created:	9/21/2020 12:46 PM
-Comment: Expires:	9/21/2022 12:00 PM
-Comment: Type:	4,096-bit RSA (secret key available)
-Comment: Usage:	Signing, Encryption, Certifying User-IDs
-Comment: Fingerprint:	D63193ADE62C21FA14E458A2458BCB0DA6347608
-
-
 mQINBF9o2OcBEADIXulxVSEKt4na3snUBHNWU3/MdUUs8TnbEVD0TUirOKvsE4OW
 fPSZQREzugrDzVuce3soaQab1217f41iVbDA1C2GoH5g9WHFlDaoDe7oMBL2YD1c
 ud+LtGYSBy5jYLtIGdif20JkNmgHGIM/Nvm48sUOJZ7itoFq3DRYVAlYqANfEqT7
@@ -89,13 +81,6 @@ Here is a public key block with my e-mail key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: User-ID:	me@neontom.com <me@neontom.com>
-Comment: Created:	8/4/2020 4:07 PM
-Comment: Type:	256-bit EdDSA (secret key available)
-Comment: Usage:	Signing, Encryption, Certifying User-IDs
-Comment: Fingerprint:	0FD3F797449A5B2B51638C35186E5D6A19EB33F1
-
-
 mDMEXynAERYJKwYBBAHaRw8BAQdAg0zJQIW+TmRqRseJZ/XLn3Yb/i0V6cQa/xwN
 4nMI6UW0H21lQG5lb250b20uY29tIDxtZUBuZW9udG9tLmNvbT6IjwQQFgoAIAUC
 XynAEQYLCQcIAwIEFQgKAgQWAgEAAhkBAhsDAh4BACEJEBhuXWoZ6zPxFiEED9P3
