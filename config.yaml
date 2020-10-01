@@ -24,7 +24,7 @@ params:
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/). Source Code on [GitHub](https://github.com/hackerman1337-xo/hm37.net)
   dateFormat: 2006 Jan 02
   codePenUser: neontom
-  katex: true
+  katex: false
   darkThemeAsDefault: false
   hideHeaderLinks: false
   search: true
