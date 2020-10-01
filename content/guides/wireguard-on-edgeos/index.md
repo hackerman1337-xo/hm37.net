@@ -1,7 +1,7 @@
 ---
 title: "EdgeOS + Wireguard VPN"
 date: 2019-09-27T17:29:37-04:00
-tags: [ networking, security, tech, guides, edgeos ]
+tags: [ networking, security, edgeos ]
 ---
 
 Installing and configuring a VPN using Jason Donenfield's excellent Wireguard protocol on EdgeOS (Ubiquiti's routing line) is a very simple process. In this post, I'll give configurations for road warrior scenarios for either accessing remote services/subnets routed through your EdgeOS-powered router, or browsing the internet using your EdgeOS internet connection.

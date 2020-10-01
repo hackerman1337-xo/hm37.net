@@ -1,7 +1,7 @@
 ---
 title: "UEFI Install Guide for Arch Linux"
 date: 2020-09-04T00:00:00-00:00
-tags: [arch, linux, tech, guides]
+tags: [arch, linux]
 ---
 
 I had a Dell Precision 5520 mobile workstation that I wanted to remove Windows from and install an open-source operating system to for a daily driver/travel laptop. I'd been using Debian and Ubuntu on top of Xen on the server side for my homelab for some time, but I was more interested in a minimal distribution such as [Gentoo](https://www.gentoo.org) or [Arch Linux](https://www.archlinux.org/). I like the idea of Gentoo -- everything is compiled from source, the kernel is compiled during the installation, and there are no pre-built binaries in sight. You can even do a multi-stage installation where the entire toolchain is built from source and then used to build the new operating system. However, in my testing on both bare metal and in a VM, the process was quite slow, even on good hardware. I don't have the time or patience to spend all day compiling, and my frustrations with Gentoo turned my eye towards Arch instead.
