@@ -4,6 +4,8 @@ date: 2020-10-01T19:00:00-00:00
 tags: [twitch]
 ---
 
+> Update 2020-10-05: I've updated the Gist link to include new code to fix the change that Twitch rolled out since the first version of this guide *4 days ago*. I'll update again if there are more updates.
+
 Twitch recently rolled out a new update to introduce mid-roll ads on the platform. This broke many ad blockers, including my favorite -- uBlock Origin. Below are instructions on fixing uBlock.
 
 If you'd like to install uBlock Origin, here are the links for the major browsers:
