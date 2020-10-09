@@ -6,7 +6,7 @@ tags: [twitch, obs]
 
 There's a video version of this available in two places. Feel free to watch/read along!
 
-- Twitch: 
+- Twitch: PSYCHE Twitch doesn't allow non-affiliates to upload videos anymore. I don't want to give them any opportunity to make money off of me, so no twitch link :(
 - YouTube: [https://youtu.be/O9mi0amdMRc](https://youtu.be/O9mi0amdMRc)
 
 ## Introduction
