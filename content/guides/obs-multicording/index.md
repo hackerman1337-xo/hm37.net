@@ -2,6 +2,7 @@
 title: "OBS Multicording Setup for Advanced Post-Production"
 date: 2020-10-09T21:00:00-00:00
 tags: [twitch, obs]
+slug: "obs-multicording"
 ---
 
 There's a video version of this available in two places. Feel free to watch/read along!
