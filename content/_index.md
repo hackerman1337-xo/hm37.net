@@ -8,5 +8,6 @@ Welcome to **hm37.net**, my personal repository of ramblings and thoughts. Conte
 {{< ticks >}}
 * "What I'm playing"-style posts, hopefully once a week
 * Technical how-to articles
+* Software I've authored or contributed to
 * Coffee reviews/resources
 {{< /ticks >}}

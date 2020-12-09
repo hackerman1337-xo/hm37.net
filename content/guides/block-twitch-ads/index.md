@@ -6,7 +6,7 @@ tags: [twitch]
 
 > Update 2020-10-05: I've updated the Gist link to include new code to fix the change that Twitch rolled out since the first version of this guide *4 days ago*. I'll update again if there are more updates.
 
-> Update 2020-12-09: This guide is now obsolete due to Twitch injecting ads into the HLS stream. Please see [this updated post]() for updates on blocking ads on Twitch as of December 2020.
+> Update 2020-12-09: This guide is now obsolete due to Twitch injecting ads into the HLS stream. Please see [this updated post]({{< ref "software/glitch-ad-blocker" >}} "Glitch Ad Blocker") for updates on blocking ads on Twitch as of December 2020.
 
 Twitch recently rolled out a new update to introduce mid-roll ads on the platform. This broke many ad blockers, including my favorite -- uBlock Origin. Below are instructions on fixing uBlock.
 
