@@ -4,7 +4,7 @@ date: 2020-12-09T15:00:00-00:00
 tags: [twitch]
 ---
 
-[Twitch](https://twitch.tv) has rolled out a new update for injecting ads in streams. This time, they're injecting ads directly into the stream feed using a product they've dubbed (SureStream)[https://twitchadvertising.tv/ad-products/surestream/].
+[Twitch](https://twitch.tv) has rolled out a new update for injecting ads in streams. This time, they're injecting ads directly into the stream feed using a product they've dubbed [SureStream](https://twitchadvertising.tv/ad-products/surestream/).
 
 ## Intro
 
