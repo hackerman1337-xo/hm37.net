@@ -40,5 +40,4 @@ If you'd like to use my SPB bot as-is, here are the steps:
 
 ## Code
 
-The source code for this bot is available on my GitHub: [https://github.com/hackerman1337-xo/simple-pronouns-discord-bot](https://github.com/
-hackerman1337-xo/simple-pronouns-discord-bot). Feel free to submit a PR or poke around the code if you'd like to make some changes!
+The source code for this bot is available on my GitHub: [https://github.com/hackerman1337-xo/simple-pronouns-discord-bot](https://github.com/hackerman1337-xo/simple-pronouns-discord-bot). Feel free to submit a PR or poke around the code if you'd like to make some changes!
