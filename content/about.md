@@ -7,6 +7,12 @@ My name is Thomas, but you can call me Tom. I'm a father, husband, gamer, and [T
 
 My blog name comes from my PSN account, `hackerman1337-xo`, which is a humorous take on my line of work.
 
+You can contact me directly at these places:
+
+* Email: me@neontom.com (hosted by Protonmail - see the [Security]({{< ref "security" >}} "Security") page for PGP keys if you're interested in that sort of thing)
+* [Telegram](https://t.me/neontom)
+* Discord: NeonTom#0001
+
 You can find my links here:
 
 * [Discord](https://discord.gg/gKZTFDD)
